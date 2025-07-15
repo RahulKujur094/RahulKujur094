@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Kujue</h1>
+<h1 align="center">Hi 👋, I'm Rahul Kujur</h1>
 <h3 align="center">Software Developer | Data Analyst | Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on **Mockly : AI Interview Preparation Platform**
