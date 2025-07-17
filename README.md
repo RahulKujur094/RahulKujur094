@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Kujur</h1>
 <h3 align="center">Software Developer | Data Analyst | Machine Learning Engineer</h3>
-- 5 ⭐ ON HackerRank SQL
+- 5 ⭐ ON HackerRank **SQL**
 
 - 🔭 I’m currently working on **Mockly : AI Interview Preparation Platform**
 
