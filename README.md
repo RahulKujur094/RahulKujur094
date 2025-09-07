@@ -3,11 +3,11 @@
 
 - 5 ⭐ ON HackerRank SQL
 
-- 🔭 I’m currently working on **Mockly : AI Interview Preparation Platform**
+- RUNNER UP - ML HACKATHON IIT KANPUR
 
-- 🌱 I’m currently learning **Cloud Database**
+- AIR 11 IN SOLANA SKILL SPRINT HACKATHON
 
-- 👯 I’m looking to collaborate on **Mockly**
+- AIR 13 IN MEESHO ML CHALLENGE
 
 - 👨‍💻 All of my projects are available at [https://github.com/RahulKujur094](https://github.com/RahulKujur094)
 
